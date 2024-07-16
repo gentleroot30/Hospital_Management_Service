@@ -1,0 +1,922 @@
+2024-06-07 20:39:33.2623 Info Loading assembly name: NLog.Web.AspNetCore
+2024-06-07 20:39:33.2933 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.5.967. Product version: 5.3.5+b3d46f80b6ea51e91ee7fe419da22e5abd972951. GlobalAssemblyCache: False
+2024-06-07 20:39:33.4782 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-06-07 20:39:33.5783 Info Registered target NLog.Targets.FileTarget(Name=internalFile)
+2024-06-07 20:39:33.5783 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-06-07 20:39:33.6504 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-06-07 20:39:33.6968 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-06-07 20:39:33.7503 Info Validating config: TargetNames=internalFile, ownFile-web, ConfigItems=34, FilePath=D:\gt\service\HospitalMgmtService\bin\Debug\net6.0\NLog.config
+2024-06-07 20:39:33.8163 Info Configuration initialized.
+2024-06-07 20:39:34.6380 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\gt\service\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-06-07.log'.
+2024-06-10 14:41:01.1540 Info Loading assembly name: NLog.Web.AspNetCore
+2024-06-10 14:41:01.1540 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.5.967. Product version: 5.3.5+b3d46f80b6ea51e91ee7fe419da22e5abd972951. GlobalAssemblyCache: False
+2024-06-10 14:41:01.1991 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-06-10 14:41:01.2597 Info Registered target NLog.Targets.FileTarget(Name=internalFile)
+2024-06-10 14:41:01.2597 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-06-10 14:41:01.2752 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-06-10 14:41:01.2895 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-06-10 14:41:01.3044 Info Validating config: TargetNames=internalFile, ownFile-web, ConfigItems=34, FilePath=D:\My_Workspace\HospitalMgmtService\bin\Debug\net6.0\NLog.config
+2024-06-10 14:41:01.3174 Info Configuration initialized.
+2024-06-10 14:41:02.0851 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-06-10.log'.
+2024-06-10 14:41:24.5258 Info Loading assembly name: NLog.Web.AspNetCore
+2024-06-10 14:41:24.5258 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.5.967. Product version: 5.3.5+b3d46f80b6ea51e91ee7fe419da22e5abd972951. GlobalAssemblyCache: False
+2024-06-10 14:41:24.5711 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-06-10 14:41:24.5711 Info Registered target NLog.Targets.FileTarget(Name=internalFile)
+2024-06-10 14:41:24.5711 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-06-10 14:41:24.5980 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-06-10 14:41:24.6066 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-06-10 14:41:24.6176 Info Validating config: TargetNames=internalFile, ownFile-web, ConfigItems=34, FilePath=D:\My_Workspace\HospitalMgmtService\bin\Debug\net6.0\NLog.config
+2024-06-10 14:41:24.6176 Info Configuration initialized.
+2024-06-10 14:41:24.7784 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-06-10.log'.
+2024-06-10 14:43:06.6589 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-06-10 14:43:06.9620 Info Registered target NLog.Targets.FileTarget(Name=internalFile)
+2024-06-10 14:43:06.9620 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-06-10 14:43:07.0248 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-06-10 14:43:07.0865 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-06-10 14:43:07.1206 Info Validating config: TargetNames=internalFile, ownFile-web, ConfigItems=34, FilePath=D:\My_Workspace\HospitalMgmtService\bin\Debug\net6.0\nlog.config
+2024-06-10 14:43:07.1915 Info Configuration initialized.
+2024-06-10 14:43:07.3047 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-06-10.log'.
+2024-06-10 14:46:01.4764 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-06-10 14:46:01.5300 Info Registered target NLog.Targets.FileTarget(Name=internalFile)
+2024-06-10 14:46:01.5303 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-06-10 14:46:01.5303 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-06-10 14:46:01.5781 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-06-10 14:46:01.5948 Info Validating config: TargetNames=internalFile, ownFile-web, ConfigItems=34, FilePath=D:\My_Workspace\HospitalMgmtService\bin\Debug\net6.0\nlog.config
+2024-06-10 14:46:01.5948 Info Configuration initialized.
+2024-06-10 14:46:01.6476 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-06-10.log'.
+2024-06-10 15:45:15.1254 Info FileTarget(Name=ownFile-web): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-custom-2024-06-10.log'.
+2024-06-11 12:31:08.3714 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-06-11 12:31:08.8763 Info Registered target NLog.Targets.FileTarget(Name=internalFile)
+2024-06-11 12:31:08.8778 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-06-11 12:31:08.9508 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-06-11 12:31:09.0809 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-06-11 12:31:09.1363 Info Validating config: TargetNames=internalFile, ownFile-web, ConfigItems=34, FilePath=D:\My_Workspace\HospitalMgmtService\bin\Debug\net6.0\nlog.config
+2024-06-11 12:31:09.1851 Info Configuration initialized.
+2024-06-11 12:31:09.2663 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-06-11.log'.
+2024-06-11 15:45:30.2634 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-06-11 15:45:30.4570 Info Registered target NLog.Targets.FileTarget(Name=internalFile)
+2024-06-11 15:45:30.4570 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-06-11 15:45:30.5192 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-06-11 15:45:30.6024 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-06-11 15:45:30.6519 Info Validating config: TargetNames=internalFile, ownFile-web, ConfigItems=34, FilePath=D:\My_Workspace\HospitalMgmtService\bin\Debug\net6.0\nlog.config
+2024-06-11 15:45:30.6973 Info Configuration initialized.
+2024-06-11 15:45:30.7958 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-06-11.log'.
+2024-06-11 15:46:14.7077 Info FileTarget(Name=ownFile-web): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-custom-2024-06-11.log'.
+2024-06-11 16:12:04.1784 Info Loading assembly name: NLog.Web.AspNetCore
+2024-06-11 16:12:04.1941 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.5.967. Product version: 5.3.5+b3d46f80b6ea51e91ee7fe419da22e5abd972951. GlobalAssemblyCache: False
+2024-06-11 16:12:04.2959 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-06-11 16:12:04.3356 Info Registered target NLog.Targets.FileTarget(Name=internalFile)
+2024-06-11 16:12:04.3356 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-06-11 16:12:04.3836 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-06-11 16:12:04.4087 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-06-11 16:12:04.4363 Info Validating config: TargetNames=internalFile, ownFile-web, ConfigItems=34, FilePath=D:\My_Workspace\HospitalMgmtService\bin\Debug\net6.0\NLog.config
+2024-06-11 16:12:04.4637 Info Configuration initialized.
+2024-06-11 16:12:04.7997 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-06-11.log'.
+2024-06-11 16:13:26.2527 Info Loading assembly name: NLog.Web.AspNetCore
+2024-06-11 16:13:26.2684 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.5.967. Product version: 5.3.5+b3d46f80b6ea51e91ee7fe419da22e5abd972951. GlobalAssemblyCache: False
+2024-06-11 16:13:26.3747 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-06-11 16:13:26.4252 Info Registered target NLog.Targets.FileTarget(Name=internalFile)
+2024-06-11 16:13:26.4252 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-06-11 16:13:26.4927 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-06-11 16:13:26.5320 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-06-11 16:13:26.5777 Info Validating config: TargetNames=internalFile, ownFile-web, ConfigItems=34, FilePath=D:\My_Workspace\HospitalMgmtService\bin\Debug\net6.0\NLog.config
+2024-06-11 16:13:26.6346 Info Configuration initialized.
+2024-06-11 16:13:27.0120 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-06-11.log'.
+2024-06-11 16:14:16.0751 Info Loading assembly name: NLog.Web.AspNetCore
+2024-06-11 16:14:16.0893 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.5.967. Product version: 5.3.5+b3d46f80b6ea51e91ee7fe419da22e5abd972951. GlobalAssemblyCache: False
+2024-06-11 16:14:16.2072 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-06-11 16:14:16.2461 Info Registered target NLog.Targets.FileTarget(Name=internalFile)
+2024-06-11 16:14:16.2461 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-06-11 16:14:16.2879 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-06-11 16:14:16.3222 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-06-11 16:14:16.3642 Info Validating config: TargetNames=internalFile, ownFile-web, ConfigItems=34, FilePath=D:\My_Workspace\HospitalMgmtService\bin\Debug\net6.0\NLog.config
+2024-06-11 16:14:16.3983 Info Configuration initialized.
+2024-06-11 16:14:16.7109 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-06-11.log'.
+2024-06-11 17:26:34.4795 Info Loading assembly name: NLog.Web.AspNetCore
+2024-06-11 17:26:34.5080 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.5.967. Product version: 5.3.5+b3d46f80b6ea51e91ee7fe419da22e5abd972951. GlobalAssemblyCache: False
+2024-06-11 17:26:34.6176 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-06-11 17:26:34.7031 Info Registered target NLog.Targets.FileTarget(Name=internalFile)
+2024-06-11 17:26:34.7031 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-06-11 17:26:34.7358 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-06-11 17:26:34.9769 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-06-11 17:26:35.0069 Info Validating config: TargetNames=internalFile, ownFile-web, ConfigItems=34, FilePath=D:\My_Workspace\HospitalMgmtService\bin\Debug\net6.0\NLog.config
+2024-06-11 17:26:35.0367 Info Configuration initialized.
+2024-06-11 17:26:35.5526 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-06-11.log'.
+2024-06-11 17:27:01.3161 Info Loading assembly name: NLog.Web.AspNetCore
+2024-06-11 17:27:01.3161 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.5.967. Product version: 5.3.5+b3d46f80b6ea51e91ee7fe419da22e5abd972951. GlobalAssemblyCache: False
+2024-06-11 17:27:01.4117 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-06-11 17:27:01.4574 Info Registered target NLog.Targets.FileTarget(Name=internalFile)
+2024-06-11 17:27:01.4574 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-06-11 17:27:01.5061 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-06-11 17:27:01.5331 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-06-11 17:27:01.5621 Info Validating config: TargetNames=internalFile, ownFile-web, ConfigItems=34, FilePath=D:\My_Workspace\HospitalMgmtService\bin\Debug\net6.0\NLog.config
+2024-06-11 17:27:01.5962 Info Configuration initialized.
+2024-06-11 17:27:01.9041 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-06-11.log'.
+2024-06-11 17:52:52.6762 Info Loading assembly name: NLog.Web.AspNetCore
+2024-06-11 17:52:52.6912 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.5.967. Product version: 5.3.5+b3d46f80b6ea51e91ee7fe419da22e5abd972951. GlobalAssemblyCache: False
+2024-06-11 17:52:52.8065 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-06-11 17:52:52.8450 Info Registered target NLog.Targets.FileTarget(Name=internalFile)
+2024-06-11 17:52:52.8450 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-06-11 17:52:52.8845 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-06-11 17:52:52.9041 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-06-11 17:52:52.9320 Info Validating config: TargetNames=internalFile, ownFile-web, ConfigItems=34, FilePath=D:\My_Workspace\HospitalMgmtService\bin\Debug\net6.0\NLog.config
+2024-06-11 17:52:52.9623 Info Configuration initialized.
+2024-06-11 17:52:53.2418 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-06-11.log'.
+2024-06-11 17:53:39.7906 Info Loading assembly name: NLog.Web.AspNetCore
+2024-06-11 17:53:39.8034 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.5.967. Product version: 5.3.5+b3d46f80b6ea51e91ee7fe419da22e5abd972951. GlobalAssemblyCache: False
+2024-06-11 17:53:39.9118 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-06-11 17:53:39.9441 Info Registered target NLog.Targets.FileTarget(Name=internalFile)
+2024-06-11 17:53:39.9441 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-06-11 17:53:39.9836 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-06-11 17:53:40.0027 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-06-11 17:53:40.0266 Info Validating config: TargetNames=internalFile, ownFile-web, ConfigItems=34, FilePath=D:\My_Workspace\HospitalMgmtService\bin\Debug\net6.0\NLog.config
+2024-06-11 17:53:40.1014 Info Configuration initialized.
+2024-06-11 17:53:40.3796 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-06-11.log'.
+2024-06-11 18:06:07.4898 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-06-11 18:06:07.5902 Info Registered target NLog.Targets.FileTarget(Name=internalFile)
+2024-06-11 18:06:07.5902 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-06-11 18:06:07.6113 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-06-11 18:06:07.6370 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-06-11 18:06:07.6594 Info Validating config: TargetNames=internalFile, ownFile-web, ConfigItems=34, FilePath=D:\My_Workspace\HospitalMgmtService\bin\Debug\net6.0\nlog.config
+2024-06-11 18:06:07.6834 Info Configuration initialized.
+2024-06-11 18:06:07.7167 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-06-11.log'.
+2024-06-11 19:00:54.1735 Info Loading assembly name: NLog.Web.AspNetCore
+2024-06-11 19:00:54.2054 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.5.967. Product version: 5.3.5+b3d46f80b6ea51e91ee7fe419da22e5abd972951. GlobalAssemblyCache: False
+2024-06-11 19:00:54.3163 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-06-11 19:00:54.3981 Info Registered target NLog.Targets.FileTarget(Name=internalFile)
+2024-06-11 19:00:54.3981 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-06-11 19:00:54.4325 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-06-11 19:00:54.4530 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-06-11 19:00:54.4773 Info Validating config: TargetNames=internalFile, ownFile-web, ConfigItems=34, FilePath=D:\My_Workspace\HospitalMgmtService\bin\Debug\net6.0\NLog.config
+2024-06-11 19:00:54.5030 Info Configuration initialized.
+2024-06-11 19:00:54.8419 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-06-11.log'.
+2024-06-11 19:03:12.2979 Info Loading assembly name: NLog.Web.AspNetCore
+2024-06-11 19:03:12.3110 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.5.967. Product version: 5.3.5+b3d46f80b6ea51e91ee7fe419da22e5abd972951. GlobalAssemblyCache: False
+2024-06-11 19:03:12.3980 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-06-11 19:03:12.4295 Info Registered target NLog.Targets.FileTarget(Name=internalFile)
+2024-06-11 19:03:12.4295 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-06-11 19:03:12.4971 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-06-11 19:03:12.5279 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-06-11 19:03:12.5561 Info Validating config: TargetNames=internalFile, ownFile-web, ConfigItems=34, FilePath=D:\My_Workspace\HospitalMgmtService\bin\Debug\net6.0\NLog.config
+2024-06-11 19:03:12.5875 Info Configuration initialized.
+2024-06-11 19:03:12.8570 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-06-11.log'.
+2024-06-12 00:07:43.8610 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-06-12 00:07:44.3037 Info Registered target NLog.Targets.FileTarget(Name=internalFile)
+2024-06-12 00:07:44.3037 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-06-12 00:07:44.3584 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-06-12 00:07:44.4667 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-06-12 00:07:44.5237 Info Validating config: TargetNames=internalFile, ownFile-web, ConfigItems=34, FilePath=D:\My_Workspace\HospitalMgmtService\bin\Debug\net6.0\nlog.config
+2024-06-12 00:07:44.5643 Info Configuration initialized.
+2024-06-12 00:07:44.6294 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-06-12.log'.
+2024-06-12 00:08:06.6008 Info FileTarget(Name=ownFile-web): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-custom-2024-06-12.log'.
+2024-06-12 00:08:59.1040 Info Loading assembly name: NLog.Web.AspNetCore
+2024-06-12 00:08:59.1132 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.5.967. Product version: 5.3.5+b3d46f80b6ea51e91ee7fe419da22e5abd972951. GlobalAssemblyCache: False
+2024-06-12 00:08:59.1598 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-06-12 00:08:59.1907 Info Registered target NLog.Targets.FileTarget(Name=internalFile)
+2024-06-12 00:08:59.1907 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-06-12 00:08:59.2228 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-06-12 00:08:59.2413 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-06-12 00:08:59.2612 Info Validating config: TargetNames=internalFile, ownFile-web, ConfigItems=34, FilePath=D:\My_Workspace\HospitalMgmtService\bin\Debug\net6.0\NLog.config
+2024-06-12 00:08:59.2828 Info Configuration initialized.
+2024-06-12 00:08:59.4699 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-06-12.log'.
+2024-06-12 00:09:33.9368 Info Loading assembly name: NLog.Web.AspNetCore
+2024-06-12 00:09:33.9491 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.5.967. Product version: 5.3.5+b3d46f80b6ea51e91ee7fe419da22e5abd972951. GlobalAssemblyCache: False
+2024-06-12 00:09:34.0196 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-06-12 00:09:34.0662 Info Registered target NLog.Targets.FileTarget(Name=internalFile)
+2024-06-12 00:09:34.0662 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-06-12 00:09:34.1169 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-06-12 00:09:34.1473 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-06-12 00:09:34.1786 Info Validating config: TargetNames=internalFile, ownFile-web, ConfigItems=34, FilePath=D:\My_Workspace\HospitalMgmtService\bin\Debug\net6.0\NLog.config
+2024-06-12 00:09:34.2150 Info Configuration initialized.
+2024-06-12 00:09:34.6551 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-06-12.log'.
+2024-06-12 00:12:12.8433 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-06-12 00:12:13.1360 Info Registered target NLog.Targets.FileTarget(Name=internalFile)
+2024-06-12 00:12:13.1360 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-06-12 00:12:13.1822 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-06-12 00:12:13.2244 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-06-12 00:12:13.2658 Info Validating config: TargetNames=internalFile, ownFile-web, ConfigItems=34, FilePath=D:\My_Workspace\HospitalMgmtService\bin\Debug\net6.0\nlog.config
+2024-06-12 00:12:13.3061 Info Configuration initialized.
+2024-06-12 00:12:13.4152 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-06-12.log'.
+2024-06-12 00:26:36.1979 Info Loading assembly name: NLog.Web.AspNetCore
+2024-06-12 00:26:36.2311 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.5.967. Product version: 5.3.5+b3d46f80b6ea51e91ee7fe419da22e5abd972951. GlobalAssemblyCache: False
+2024-06-12 00:26:36.3371 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-06-12 00:26:36.3714 Info Registered target NLog.Targets.FileTarget(Name=internalFile)
+2024-06-12 00:26:36.3714 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-06-12 00:26:36.4105 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-06-12 00:26:36.4349 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-06-12 00:26:36.4606 Info Validating config: TargetNames=internalFile, ownFile-web, ConfigItems=34, FilePath=D:\My_Workspace\HospitalMgmtService\bin\Debug\net6.0\NLog.config
+2024-06-12 00:26:36.4931 Info Configuration initialized.
+2024-06-12 00:26:36.7959 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-06-12.log'.
+2024-06-12 00:27:06.6031 Info Loading assembly name: NLog.Web.AspNetCore
+2024-06-12 00:27:06.6208 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.5.967. Product version: 5.3.5+b3d46f80b6ea51e91ee7fe419da22e5abd972951. GlobalAssemblyCache: False
+2024-06-12 00:27:06.7422 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-06-12 00:27:06.7774 Info Registered target NLog.Targets.FileTarget(Name=internalFile)
+2024-06-12 00:27:06.7774 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-06-12 00:27:06.8214 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-06-12 00:27:06.8498 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-06-12 00:27:06.8822 Info Validating config: TargetNames=internalFile, ownFile-web, ConfigItems=34, FilePath=D:\My_Workspace\HospitalMgmtService\bin\Debug\net6.0\NLog.config
+2024-06-12 00:27:06.9203 Info Configuration initialized.
+2024-06-12 00:27:07.2274 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-06-12.log'.
+2024-06-12 00:30:10.5806 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-06-12 00:30:10.7080 Info Registered target NLog.Targets.FileTarget(Name=internalFile)
+2024-06-12 00:30:10.7080 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-06-12 00:30:10.7641 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-06-12 00:30:10.8239 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-06-12 00:30:10.8729 Info Validating config: TargetNames=internalFile, ownFile-web, ConfigItems=34, FilePath=D:\My_Workspace\HospitalMgmtService\bin\Debug\net6.0\nlog.config
+2024-06-12 00:30:10.9295 Info Configuration initialized.
+2024-06-12 00:30:11.0182 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-06-12.log'.
+2024-06-12 12:24:59.6212 Info Loading assembly name: NLog.Web.AspNetCore
+2024-06-12 12:24:59.7037 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.5.967. Product version: 5.3.5+b3d46f80b6ea51e91ee7fe419da22e5abd972951. GlobalAssemblyCache: False
+2024-06-12 12:24:59.8323 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-06-12 12:24:59.9385 Info Registered target NLog.Targets.FileTarget(Name=internalFile)
+2024-06-12 12:24:59.9413 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-06-12 12:24:59.9934 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-06-12 12:25:00.0252 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-06-12 12:25:00.0599 Info Validating config: TargetNames=internalFile, ownFile-web, ConfigItems=34, FilePath=D:\My_Workspace\HospitalMgmtService\bin\Debug\net6.0\NLog.config
+2024-06-12 12:25:00.1044 Info Configuration initialized.
+2024-06-12 12:25:01.1418 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-06-12.log'.
+2024-06-12 12:25:27.7308 Info Loading assembly name: NLog.Web.AspNetCore
+2024-06-12 12:25:27.7480 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.5.967. Product version: 5.3.5+b3d46f80b6ea51e91ee7fe419da22e5abd972951. GlobalAssemblyCache: False
+2024-06-12 12:25:27.8908 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-06-12 12:25:27.9888 Info Registered target NLog.Targets.FileTarget(Name=internalFile)
+2024-06-12 12:25:27.9888 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-06-12 12:25:28.0397 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-06-12 12:25:28.0734 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-06-12 12:25:28.1205 Info Validating config: TargetNames=internalFile, ownFile-web, ConfigItems=34, FilePath=D:\My_Workspace\HospitalMgmtService\bin\Debug\net6.0\NLog.config
+2024-06-12 12:25:28.1675 Info Configuration initialized.
+2024-06-12 12:25:28.6246 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-06-12.log'.
+2024-06-12 12:29:46.3682 Info Loading assembly name: NLog.Web.AspNetCore
+2024-06-12 12:29:46.3852 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.5.967. Product version: 5.3.5+b3d46f80b6ea51e91ee7fe419da22e5abd972951. GlobalAssemblyCache: False
+2024-06-12 12:29:46.5218 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-06-12 12:29:46.5595 Info Registered target NLog.Targets.FileTarget(Name=internalFile)
+2024-06-12 12:29:46.5595 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-06-12 12:29:46.6025 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-06-12 12:29:46.6261 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-06-12 12:29:46.6586 Info Validating config: TargetNames=internalFile, ownFile-web, ConfigItems=34, FilePath=D:\My_Workspace\HospitalMgmtService\bin\Debug\net6.0\NLog.config
+2024-06-12 12:29:46.7001 Info Configuration initialized.
+2024-06-12 12:29:47.0434 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-06-12.log'.
+2024-06-12 12:32:57.6912 Info Loading assembly name: NLog.Web.AspNetCore
+2024-06-12 12:32:57.7192 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.5.967. Product version: 5.3.5+b3d46f80b6ea51e91ee7fe419da22e5abd972951. GlobalAssemblyCache: False
+2024-06-12 12:32:57.8513 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-06-12 12:32:57.9084 Info Registered target NLog.Targets.FileTarget(Name=internalFile)
+2024-06-12 12:32:57.9090 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-06-12 12:32:57.9571 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-06-12 12:32:57.9801 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-06-12 12:32:58.0084 Info Validating config: TargetNames=internalFile, ownFile-web, ConfigItems=34, FilePath=D:\My_Workspace\HospitalMgmtService\bin\Debug\net6.0\NLog.config
+2024-06-12 12:32:58.0382 Info Configuration initialized.
+2024-06-12 12:32:58.4031 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-06-12.log'.
+2024-06-12 12:36:30.8358 Info Loading assembly name: NLog.Web.AspNetCore
+2024-06-12 12:36:30.8518 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.5.967. Product version: 5.3.5+b3d46f80b6ea51e91ee7fe419da22e5abd972951. GlobalAssemblyCache: False
+2024-06-12 12:36:30.9435 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-06-12 12:36:30.9843 Info Registered target NLog.Targets.FileTarget(Name=internalFile)
+2024-06-12 12:36:30.9843 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-06-12 12:36:31.0369 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-06-12 12:36:31.0661 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-06-12 12:36:31.1000 Info Validating config: TargetNames=internalFile, ownFile-web, ConfigItems=34, FilePath=D:\My_Workspace\HospitalMgmtService\bin\Debug\net6.0\NLog.config
+2024-06-12 12:36:31.1374 Info Configuration initialized.
+2024-06-12 12:36:31.4883 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-06-12.log'.
+2024-06-12 12:40:11.5754 Info Loading assembly name: NLog.Web.AspNetCore
+2024-06-12 12:40:11.5968 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.5.967. Product version: 5.3.5+b3d46f80b6ea51e91ee7fe419da22e5abd972951. GlobalAssemblyCache: False
+2024-06-12 12:40:11.7032 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-06-12 12:40:11.7983 Info Registered target NLog.Targets.FileTarget(Name=internalFile)
+2024-06-12 12:40:11.7983 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-06-12 12:40:11.8340 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-06-12 12:40:11.8636 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-06-12 12:40:11.8952 Info Validating config: TargetNames=internalFile, ownFile-web, ConfigItems=34, FilePath=D:\My_Workspace\HospitalMgmtService\bin\Debug\net6.0\NLog.config
+2024-06-12 12:40:11.9366 Info Configuration initialized.
+2024-06-12 12:40:12.3819 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-06-12.log'.
+2024-06-12 12:40:49.3314 Info Loading assembly name: NLog.Web.AspNetCore
+2024-06-12 12:40:49.3314 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.5.967. Product version: 5.3.5+b3d46f80b6ea51e91ee7fe419da22e5abd972951. GlobalAssemblyCache: False
+2024-06-12 12:40:49.4592 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-06-12 12:40:49.5054 Info Registered target NLog.Targets.FileTarget(Name=internalFile)
+2024-06-12 12:40:49.5054 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-06-12 12:40:49.5575 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-06-12 12:40:49.5860 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-06-12 12:40:49.6162 Info Validating config: TargetNames=internalFile, ownFile-web, ConfigItems=34, FilePath=D:\My_Workspace\HospitalMgmtService\bin\Debug\net6.0\NLog.config
+2024-06-12 12:40:49.6478 Info Configuration initialized.
+2024-06-12 12:40:49.9831 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-06-12.log'.
+2024-06-12 14:30:25.7496 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-06-12 14:30:26.1609 Info Registered target NLog.Targets.FileTarget(Name=internalFile)
+2024-06-12 14:30:26.1609 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-06-12 14:30:26.1859 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-06-12 14:30:26.2332 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-06-12 14:30:26.2545 Info Validating config: TargetNames=internalFile, ownFile-web, ConfigItems=34, FilePath=D:\My_Workspace\HospitalMgmtService\bin\Debug\net6.0\nlog.config
+2024-06-12 14:30:26.2730 Info Configuration initialized.
+2024-06-12 14:30:26.3051 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-06-12.log'.
+2024-06-12 14:30:47.0978 Info FileTarget(Name=ownFile-web): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-custom-2024-06-12.log'.
+2024-06-12 15:09:23.0004 Info Loading assembly name: NLog.Web.AspNetCore
+2024-06-12 15:09:23.0159 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.5.967. Product version: 5.3.5+b3d46f80b6ea51e91ee7fe419da22e5abd972951. GlobalAssemblyCache: False
+2024-06-12 15:09:23.1215 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-06-12 15:09:23.2178 Info Registered target NLog.Targets.FileTarget(Name=internalFile)
+2024-06-12 15:09:23.2178 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-06-12 15:09:23.2547 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-06-12 15:09:23.2784 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-06-12 15:09:23.3057 Info Validating config: TargetNames=internalFile, ownFile-web, ConfigItems=34, FilePath=D:\My_Workspace\HospitalMgmtService\bin\Debug\net6.0\NLog.config
+2024-06-12 15:09:23.3341 Info Configuration initialized.
+2024-06-12 15:09:23.7385 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-06-12.log'.
+2024-06-12 15:09:43.3547 Info Loading assembly name: NLog.Web.AspNetCore
+2024-06-12 15:09:43.3850 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.5.967. Product version: 5.3.5+b3d46f80b6ea51e91ee7fe419da22e5abd972951. GlobalAssemblyCache: False
+2024-06-12 15:09:43.4269 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-06-12 15:09:43.4652 Info Registered target NLog.Targets.FileTarget(Name=internalFile)
+2024-06-12 15:09:43.4652 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-06-12 15:09:43.4838 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-06-12 15:09:43.5000 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-06-12 15:09:43.5143 Info Validating config: TargetNames=internalFile, ownFile-web, ConfigItems=34, FilePath=D:\My_Workspace\HospitalMgmtService\bin\Debug\net6.0\NLog.config
+2024-06-12 15:09:43.5280 Info Configuration initialized.
+2024-06-12 15:09:43.6796 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-06-12.log'.
+2024-06-12 15:10:01.9965 Info Loading assembly name: NLog.Web.AspNetCore
+2024-06-12 15:10:02.0138 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.5.967. Product version: 5.3.5+b3d46f80b6ea51e91ee7fe419da22e5abd972951. GlobalAssemblyCache: False
+2024-06-12 15:10:02.1362 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-06-12 15:10:02.1685 Info Registered target NLog.Targets.FileTarget(Name=internalFile)
+2024-06-12 15:10:02.1685 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-06-12 15:10:02.2188 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-06-12 15:10:02.2474 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-06-12 15:10:02.2794 Info Validating config: TargetNames=internalFile, ownFile-web, ConfigItems=34, FilePath=D:\My_Workspace\HospitalMgmtService\bin\Debug\net6.0\NLog.config
+2024-06-12 15:10:02.3185 Info Configuration initialized.
+2024-06-12 15:10:02.6971 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-06-12.log'.
+2024-06-12 15:42:03.7764 Info Loading assembly name: NLog.Web.AspNetCore
+2024-06-12 15:42:03.7919 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.5.967. Product version: 5.3.5+b3d46f80b6ea51e91ee7fe419da22e5abd972951. GlobalAssemblyCache: False
+2024-06-12 15:42:03.8996 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-06-12 15:42:03.9981 Info Registered target NLog.Targets.FileTarget(Name=internalFile)
+2024-06-12 15:42:03.9981 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-06-12 15:42:04.0538 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-06-12 15:42:04.0882 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-06-12 15:42:04.1300 Info Validating config: TargetNames=internalFile, ownFile-web, ConfigItems=34, FilePath=D:\My_Workspace\HospitalMgmtService\bin\Debug\net6.0\NLog.config
+2024-06-12 15:42:04.1730 Info Configuration initialized.
+2024-06-12 15:42:04.6256 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-06-12.log'.
+2024-06-12 15:42:29.8395 Info Loading assembly name: NLog.Web.AspNetCore
+2024-06-12 15:42:29.8482 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.5.967. Product version: 5.3.5+b3d46f80b6ea51e91ee7fe419da22e5abd972951. GlobalAssemblyCache: False
+2024-06-12 15:42:29.9135 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-06-12 15:42:29.9319 Info Registered target NLog.Targets.FileTarget(Name=internalFile)
+2024-06-12 15:42:29.9319 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-06-12 15:42:29.9570 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-06-12 15:42:29.9725 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-06-12 15:42:29.9932 Info Validating config: TargetNames=internalFile, ownFile-web, ConfigItems=34, FilePath=D:\My_Workspace\HospitalMgmtService\bin\Debug\net6.0\NLog.config
+2024-06-12 15:42:30.0117 Info Configuration initialized.
+2024-06-12 15:42:30.2317 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-06-12.log'.
+2024-06-12 15:50:43.1640 Info Loading assembly name: NLog.Web.AspNetCore
+2024-06-12 15:50:43.1940 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.5.967. Product version: 5.3.5+b3d46f80b6ea51e91ee7fe419da22e5abd972951. GlobalAssemblyCache: False
+2024-06-12 15:50:43.3360 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-06-12 15:50:43.4230 Info Registered target NLog.Targets.FileTarget(Name=internalFile)
+2024-06-12 15:50:43.4230 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-06-12 15:50:43.4669 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-06-12 15:50:43.4973 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-06-12 15:50:43.5379 Info Validating config: TargetNames=internalFile, ownFile-web, ConfigItems=34, FilePath=D:\My_Workspace\HospitalMgmtService\bin\Debug\net6.0\NLog.config
+2024-06-12 15:50:43.5737 Info Configuration initialized.
+2024-06-12 15:50:44.0015 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-06-12.log'.
+2024-06-12 15:51:06.0168 Info Loading assembly name: NLog.Web.AspNetCore
+2024-06-12 15:51:06.0357 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.5.967. Product version: 5.3.5+b3d46f80b6ea51e91ee7fe419da22e5abd972951. GlobalAssemblyCache: False
+2024-06-12 15:51:06.1849 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-06-12 15:51:06.2129 Info Registered target NLog.Targets.FileTarget(Name=internalFile)
+2024-06-12 15:51:06.2129 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-06-12 15:51:06.2651 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-06-12 15:51:06.2964 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-06-12 15:51:06.3348 Info Validating config: TargetNames=internalFile, ownFile-web, ConfigItems=34, FilePath=D:\My_Workspace\HospitalMgmtService\bin\Debug\net6.0\NLog.config
+2024-06-12 15:51:06.3740 Info Configuration initialized.
+2024-06-12 15:51:06.7489 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-06-12.log'.
+2024-06-12 15:55:20.2784 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-06-12 15:55:20.4088 Info Registered target NLog.Targets.FileTarget(Name=internalFile)
+2024-06-12 15:55:20.4092 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-06-12 15:55:20.4407 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-06-12 15:55:20.4747 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-06-12 15:55:20.5033 Info Validating config: TargetNames=internalFile, ownFile-web, ConfigItems=34, FilePath=D:\My_Workspace\HospitalMgmtService\bin\Debug\net6.0\nlog.config
+2024-06-12 15:55:20.5362 Info Configuration initialized.
+2024-06-12 15:55:20.5850 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-06-12.log'.
+2024-06-12 15:55:40.4994 Info FileTarget(Name=ownFile-web): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-custom-2024-06-12.log'.
+2024-07-02 14:35:30.1279 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-07-02 14:35:30.6413 Info Registered target NLog.Targets.FileTarget(Name=internalFile)
+2024-07-02 14:35:30.6413 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-07-02 14:35:30.7114 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-07-02 14:35:30.8234 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-07-02 14:35:30.8740 Info Validating config: TargetNames=internalFile, ownFile-web, ConfigItems=34, FilePath=D:\My_Workspace\HospitalMgmtService\bin\Debug\net6.0\nlog.config
+2024-07-02 14:35:30.9273 Info Configuration initialized.
+2024-07-02 14:35:31.0261 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-07-02.log'.
+2024-07-02 14:35:31.1210 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-06-24.log'.
+2024-07-02 14:43:44.3878 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-07-02 14:43:45.0455 Info Registered target NLog.Targets.FileTarget(Name=internalFile)
+2024-07-02 14:43:45.0455 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-07-02 14:43:45.1087 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-07-02 14:43:45.5508 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-07-02 14:43:45.6110 Info Validating config: TargetNames=internalFile, ownFile-web, ConfigItems=34, FilePath=D:\My_Workspace\HospitalMgmtService\bin\Debug\net6.0\nlog.config
+2024-07-02 14:43:45.6762 Info Configuration initialized.
+2024-07-02 14:43:45.7864 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-07-02.log'.
+2024-07-02 18:03:29.4273 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-07-02 18:03:29.6081 Info Registered target NLog.Targets.FileTarget(Name=internalFile)
+2024-07-02 18:03:29.6081 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-07-02 18:03:29.6658 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-07-02 18:03:29.7208 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-07-02 18:03:29.7608 Info Validating config: TargetNames=internalFile, ownFile-web, ConfigItems=34, FilePath=D:\My_Workspace\HospitalMgmtService\bin\Debug\net6.0\nlog.config
+2024-07-02 18:03:29.8201 Info Configuration initialized.
+2024-07-02 18:03:29.9157 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-07-02.log'.
+2024-07-02 18:10:25.5296 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-07-02 18:10:25.7133 Info Registered target NLog.Targets.FileTarget(Name=internalFile)
+2024-07-02 18:10:25.7133 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-07-02 18:10:25.7746 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-07-02 18:10:25.8277 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-07-02 18:10:25.8774 Info Validating config: TargetNames=internalFile, ownFile-web, ConfigItems=34, FilePath=D:\My_Workspace\HospitalMgmtService\bin\Debug\net6.0\nlog.config
+2024-07-02 18:10:25.9254 Info Configuration initialized.
+2024-07-02 18:10:26.0055 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-07-02.log'.
+2024-07-03 11:11:18.7144 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-07-03 11:11:18.9705 Info Registered target NLog.Targets.FileTarget(Name=internalFile)
+2024-07-03 11:11:18.9705 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-07-03 11:11:19.0152 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-07-03 11:11:19.0669 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-07-03 11:11:19.0995 Info Validating config: TargetNames=internalFile, ownFile-web, ConfigItems=34, FilePath=D:\My_Workspace\HospitalMgmtService\bin\Debug\net6.0\nlog.config
+2024-07-03 11:11:19.1202 Info Configuration initialized.
+2024-07-03 11:11:19.1607 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-07-03.log'.
+2024-07-03 11:11:19.1829 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-06-25.log'.
+2024-07-03 15:11:56.9605 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-07-03 15:11:57.0911 Info Registered target NLog.Targets.FileTarget(Name=internalFile)
+2024-07-03 15:11:57.0930 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-07-03 15:11:57.1162 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-07-03 15:11:57.1463 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-07-03 15:11:57.1818 Info Validating config: TargetNames=internalFile, ownFile-web, ConfigItems=34, FilePath=D:\My_Workspace\HospitalMgmtService\bin\Debug\net6.0\nlog.config
+2024-07-03 15:11:57.2042 Info Configuration initialized.
+2024-07-03 15:11:57.2571 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-07-03.log'.
+2024-07-03 15:34:45.2741 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-07-03 15:34:45.3340 Info Registered target NLog.Targets.FileTarget(Name=internalFile)
+2024-07-03 15:34:45.3340 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-07-03 15:34:45.3573 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-07-03 15:34:45.3858 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-07-03 15:34:45.4087 Info Validating config: TargetNames=internalFile, ownFile-web, ConfigItems=34, FilePath=D:\My_Workspace\HospitalMgmtService\bin\Debug\net6.0\nlog.config
+2024-07-03 15:34:45.4306 Info Configuration initialized.
+2024-07-03 15:34:45.4660 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-07-03.log'.
+2024-07-03 15:40:14.5495 Info Loading assembly name: NLog.Web.AspNetCore
+2024-07-03 15:40:14.5637 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.5.967. Product version: 5.3.5+b3d46f80b6ea51e91ee7fe419da22e5abd972951. GlobalAssemblyCache: False
+2024-07-03 15:40:14.5964 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-07-03 15:40:14.6331 Info Registered target NLog.Targets.FileTarget(Name=internalFile)
+2024-07-03 15:40:14.6331 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-07-03 15:40:14.6501 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-07-03 15:40:14.6625 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-07-03 15:40:14.6779 Info Validating config: TargetNames=internalFile, ownFile-web, ConfigItems=34, FilePath=D:\My_Workspace\HospitalMgmtService\bin\Debug\net6.0\NLog.config
+2024-07-03 15:40:14.6951 Info Configuration initialized.
+2024-07-03 15:40:14.8376 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-07-03.log'.
+2024-07-03 15:40:35.4492 Info Loading assembly name: NLog.Web.AspNetCore
+2024-07-03 15:40:35.4559 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.5.967. Product version: 5.3.5+b3d46f80b6ea51e91ee7fe419da22e5abd972951. GlobalAssemblyCache: False
+2024-07-03 15:40:35.4884 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-07-03 15:40:35.5028 Info Registered target NLog.Targets.FileTarget(Name=internalFile)
+2024-07-03 15:40:35.5028 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-07-03 15:40:35.5193 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-07-03 15:40:35.5285 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-07-03 15:40:35.5285 Info Validating config: TargetNames=internalFile, ownFile-web, ConfigItems=34, FilePath=D:\My_Workspace\HospitalMgmtService\bin\Debug\net6.0\NLog.config
+2024-07-03 15:40:35.5531 Info Configuration initialized.
+2024-07-03 15:40:35.6896 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-07-03.log'.
+2024-07-03 15:44:26.8617 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-07-03 15:44:26.9373 Info Registered target NLog.Targets.FileTarget(Name=internalFile)
+2024-07-03 15:44:26.9373 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-07-03 15:44:26.9666 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-07-03 15:44:26.9984 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-07-03 15:44:27.0220 Info Validating config: TargetNames=internalFile, ownFile-web, ConfigItems=34, FilePath=D:\My_Workspace\HospitalMgmtService\bin\Debug\net6.0\nlog.config
+2024-07-03 15:44:27.0491 Info Configuration initialized.
+2024-07-03 15:44:27.0987 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-07-03.log'.
+2024-07-03 15:57:10.3684 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-07-03 15:57:10.4802 Info Registered target NLog.Targets.FileTarget(Name=internalFile)
+2024-07-03 15:57:10.4802 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-07-03 15:57:10.5028 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-07-03 15:57:10.5261 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-07-03 15:57:10.5477 Info Validating config: TargetNames=internalFile, ownFile-web, ConfigItems=34, FilePath=D:\My_Workspace\HospitalMgmtService\bin\Debug\net6.0\nlog.config
+2024-07-03 15:57:10.5654 Info Configuration initialized.
+2024-07-03 15:57:10.5965 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-07-03.log'.
+2024-07-03 16:41:01.7501 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-07-03 16:41:01.8609 Info Registered target NLog.Targets.FileTarget(Name=internalFile)
+2024-07-03 16:41:01.8609 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-07-03 16:41:01.8833 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-07-03 16:41:01.9142 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-07-03 16:41:01.9373 Info Validating config: TargetNames=internalFile, ownFile-web, ConfigItems=34, FilePath=D:\My_Workspace\HospitalMgmtService\bin\Debug\net6.0\nlog.config
+2024-07-03 16:41:01.9692 Info Configuration initialized.
+2024-07-03 16:41:02.0160 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-07-03.log'.
+2024-07-03 17:34:15.1144 Info Loading assembly name: NLog.Web.AspNetCore
+2024-07-03 17:34:15.1578 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.5.967. Product version: 5.3.5+b3d46f80b6ea51e91ee7fe419da22e5abd972951. GlobalAssemblyCache: False
+2024-07-03 17:34:15.2707 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-07-03 17:34:15.3629 Info Registered target NLog.Targets.FileTarget(Name=internalFile)
+2024-07-03 17:34:15.3637 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-07-03 17:34:15.4069 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-07-03 17:34:15.4333 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-07-03 17:34:15.4596 Info Validating config: TargetNames=internalFile, ownFile-web, ConfigItems=34, FilePath=D:\My_Workspace\HospitalMgmtService\bin\Debug\net6.0\NLog.config
+2024-07-03 17:34:15.4890 Info Configuration initialized.
+2024-07-03 17:34:15.8891 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-07-03.log'.
+2024-07-03 17:34:37.4266 Info Loading assembly name: NLog.Web.AspNetCore
+2024-07-03 17:34:37.4409 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.5.967. Product version: 5.3.5+b3d46f80b6ea51e91ee7fe419da22e5abd972951. GlobalAssemblyCache: False
+2024-07-03 17:34:37.5350 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-07-03 17:34:37.5619 Info Registered target NLog.Targets.FileTarget(Name=internalFile)
+2024-07-03 17:34:37.5619 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-07-03 17:34:37.5962 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-07-03 17:34:37.6215 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-07-03 17:34:37.6499 Info Validating config: TargetNames=internalFile, ownFile-web, ConfigItems=34, FilePath=D:\My_Workspace\HospitalMgmtService\bin\Debug\net6.0\NLog.config
+2024-07-03 17:34:37.6785 Info Configuration initialized.
+2024-07-03 17:34:37.9485 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-07-03.log'.
+2024-07-03 17:34:57.4065 Info Loading assembly name: NLog.Web.AspNetCore
+2024-07-03 17:34:57.4228 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.5.967. Product version: 5.3.5+b3d46f80b6ea51e91ee7fe419da22e5abd972951. GlobalAssemblyCache: False
+2024-07-03 17:34:57.5626 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-07-03 17:34:57.6282 Info Registered target NLog.Targets.FileTarget(Name=internalFile)
+2024-07-03 17:34:57.6282 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-07-03 17:34:57.6720 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-07-03 17:34:57.7048 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-07-03 17:34:57.7282 Info Validating config: TargetNames=internalFile, ownFile-web, ConfigItems=34, FilePath=D:\My_Workspace\HospitalMgmtService\bin\Debug\net6.0\NLog.config
+2024-07-03 17:34:57.7533 Info Configuration initialized.
+2024-07-03 17:34:58.0192 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-07-03.log'.
+2024-07-03 17:37:10.0400 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-07-03 17:37:10.3097 Info Registered target NLog.Targets.FileTarget(Name=internalFile)
+2024-07-03 17:37:10.3097 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-07-03 17:37:10.3659 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-07-03 17:37:10.4131 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-07-03 17:37:10.4584 Info Validating config: TargetNames=internalFile, ownFile-web, ConfigItems=34, FilePath=D:\My_Workspace\HospitalMgmtService\bin\Debug\net6.0\nlog.config
+2024-07-03 17:37:10.5055 Info Configuration initialized.
+2024-07-03 17:37:10.5794 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-07-03.log'.
+2024-07-03 17:46:24.9061 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-07-03 17:46:25.1787 Info Registered target NLog.Targets.FileTarget(Name=internalFile)
+2024-07-03 17:46:25.1787 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-07-03 17:46:25.2580 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-07-03 17:46:25.3131 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-07-03 17:46:25.3721 Info Validating config: TargetNames=internalFile, ownFile-web, ConfigItems=34, FilePath=D:\My_Workspace\HospitalMgmtService\bin\Debug\net6.0\nlog.config
+2024-07-03 17:46:25.4238 Info Configuration initialized.
+2024-07-03 17:46:25.5101 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-07-03.log'.
+2024-07-03 18:14:55.4149 Info Loading assembly name: NLog.Web.AspNetCore
+2024-07-03 18:14:55.4289 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.5.967. Product version: 5.3.5+b3d46f80b6ea51e91ee7fe419da22e5abd972951. GlobalAssemblyCache: False
+2024-07-03 18:14:55.5001 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-07-03 18:14:55.5369 Info Registered target NLog.Targets.FileTarget(Name=internalFile)
+2024-07-03 18:14:55.5369 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-07-03 18:14:55.5695 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-07-03 18:14:55.5886 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-07-03 18:14:55.6123 Info Validating config: TargetNames=internalFile, ownFile-web, ConfigItems=34, FilePath=D:\My_Workspace\HospitalMgmtService\bin\Debug\net6.0\NLog.config
+2024-07-03 18:14:55.6385 Info Configuration initialized.
+2024-07-03 18:14:55.9573 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-07-03.log'.
+2024-07-03 18:15:23.2451 Info Loading assembly name: NLog.Web.AspNetCore
+2024-07-03 18:15:23.2606 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.5.967. Product version: 5.3.5+b3d46f80b6ea51e91ee7fe419da22e5abd972951. GlobalAssemblyCache: False
+2024-07-03 18:15:23.3638 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-07-03 18:15:23.3935 Info Registered target NLog.Targets.FileTarget(Name=internalFile)
+2024-07-03 18:15:23.3935 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-07-03 18:15:23.4338 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-07-03 18:15:23.4584 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-07-03 18:15:23.4833 Info Validating config: TargetNames=internalFile, ownFile-web, ConfigItems=34, FilePath=D:\My_Workspace\HospitalMgmtService\bin\Debug\net6.0\NLog.config
+2024-07-03 18:15:23.5124 Info Configuration initialized.
+2024-07-03 18:15:23.8414 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-07-03.log'.
+2024-07-03 18:18:04.5119 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-07-03 18:18:04.7066 Info Registered target NLog.Targets.FileTarget(Name=internalFile)
+2024-07-03 18:18:04.7066 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-07-03 18:18:04.7717 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-07-03 18:18:04.8401 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-07-03 18:18:04.9119 Info Validating config: TargetNames=internalFile, ownFile-web, ConfigItems=34, FilePath=D:\My_Workspace\HospitalMgmtService\bin\Debug\net6.0\nlog.config
+2024-07-03 18:18:04.9784 Info Configuration initialized.
+2024-07-03 18:18:05.0963 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-07-03.log'.
+2024-07-03 18:35:57.2841 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-07-03 18:35:57.4526 Info Registered target NLog.Targets.FileTarget(Name=internalFile)
+2024-07-03 18:35:57.4526 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-07-03 18:35:57.5153 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-07-03 18:35:57.5886 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-07-03 18:35:57.6354 Info Validating config: TargetNames=internalFile, ownFile-web, ConfigItems=34, FilePath=D:\My_Workspace\HospitalMgmtService\bin\Debug\net6.0\nlog.config
+2024-07-03 18:35:57.6789 Info Configuration initialized.
+2024-07-03 18:35:57.7603 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-07-03.log'.
+2024-07-03 18:43:38.5114 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-07-03 18:43:38.6659 Info Registered target NLog.Targets.FileTarget(Name=internalFile)
+2024-07-03 18:43:38.6659 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-07-03 18:43:38.7218 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-07-03 18:43:38.7960 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-07-03 18:43:38.8469 Info Validating config: TargetNames=internalFile, ownFile-web, ConfigItems=34, FilePath=D:\My_Workspace\HospitalMgmtService\bin\Debug\net6.0\nlog.config
+2024-07-03 18:43:38.8980 Info Configuration initialized.
+2024-07-03 18:43:38.9741 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-07-03.log'.
+2024-07-03 19:19:34.9476 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-07-03 19:19:35.1096 Info Registered target NLog.Targets.FileTarget(Name=internalFile)
+2024-07-03 19:19:35.1096 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-07-03 19:19:35.1568 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-07-03 19:19:35.2016 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-07-03 19:19:35.2371 Info Validating config: TargetNames=internalFile, ownFile-web, ConfigItems=34, FilePath=D:\My_Workspace\HospitalMgmtService\bin\Debug\net6.0\nlog.config
+2024-07-03 19:19:35.2882 Info Configuration initialized.
+2024-07-03 19:19:35.3598 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-07-03.log'.
+2024-07-04 10:24:15.6733 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-07-04.log'.
+2024-07-04 15:47:12.0005 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-07-04 15:47:12.2381 Info Registered target NLog.Targets.FileTarget(Name=internalFile)
+2024-07-04 15:47:12.2381 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-07-04 15:47:12.2607 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-07-04 15:47:12.3433 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-07-04 15:47:12.3953 Info Validating config: TargetNames=internalFile, ownFile-web, ConfigItems=34, FilePath=D:\My_Workspace\HospitalMgmtService\bin\Debug\net6.0\nlog.config
+2024-07-04 15:47:12.4390 Info Configuration initialized.
+2024-07-04 15:47:12.5197 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-07-04.log'.
+2024-07-04 15:47:12.5734 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-06-26.log'.
+2024-07-04 16:32:47.7900 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-07-04 16:32:47.8416 Info Registered target NLog.Targets.FileTarget(Name=internalFile)
+2024-07-04 16:32:47.8416 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-07-04 16:32:47.8672 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-07-04 16:32:47.8882 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-07-04 16:32:47.9053 Info Validating config: TargetNames=internalFile, ownFile-web, ConfigItems=34, FilePath=D:\My_Workspace\HospitalMgmtService\bin\Debug\net6.0\nlog.config
+2024-07-04 16:32:47.9236 Info Configuration initialized.
+2024-07-04 16:32:47.9538 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-07-04.log'.
+2024-07-04 16:40:23.4477 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-07-04 16:40:23.5503 Info Registered target NLog.Targets.FileTarget(Name=internalFile)
+2024-07-04 16:40:23.5503 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-07-04 16:40:23.6227 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-07-04 16:40:23.6833 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-07-04 16:40:23.7366 Info Validating config: TargetNames=internalFile, ownFile-web, ConfigItems=34, FilePath=D:\My_Workspace\HospitalMgmtService\bin\Debug\net6.0\nlog.config
+2024-07-04 16:40:23.7871 Info Configuration initialized.
+2024-07-04 16:40:23.8680 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-07-04.log'.
+2024-07-04 16:42:12.8336 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-07-04 16:42:12.8811 Info Registered target NLog.Targets.FileTarget(Name=internalFile)
+2024-07-04 16:42:12.8811 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-07-04 16:42:12.9080 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-07-04 16:42:12.9308 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-07-04 16:42:12.9574 Info Validating config: TargetNames=internalFile, ownFile-web, ConfigItems=34, FilePath=D:\My_Workspace\HospitalMgmtService\bin\Debug\net6.0\nlog.config
+2024-07-04 16:42:12.9806 Info Configuration initialized.
+2024-07-04 16:42:13.0186 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-07-04.log'.
+2024-07-05 09:35:55.5625 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-07-05.log'.
+2024-07-05 11:14:24.9383 Info FileTarget(Name=ownFile-web): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-custom-2024-07-05.log'.
+2024-07-05 11:14:25.0125 Info FileTarget(Name=ownFile-web): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-custom-2024-06-19.log'.
+2024-07-06 00:35:46.7794 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-07-06.log'.
+2024-07-06 00:35:46.8588 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-06-27.log'.
+2024-07-06 00:35:46.8588 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-06-28.log'.
+2024-07-06 16:23:03.6833 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-07-06 16:23:03.9812 Info Registered target NLog.Targets.FileTarget(Name=internalFile)
+2024-07-06 16:23:03.9812 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-07-06 16:23:04.0049 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-07-06 16:23:04.0934 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-07-06 16:23:04.1215 Info Validating config: TargetNames=internalFile, ownFile-web, ConfigItems=34, FilePath=D:\My_Workspace\HospitalMgmtService\bin\Debug\net6.0\nlog.config
+2024-07-06 16:23:04.1462 Info Configuration initialized.
+2024-07-06 16:23:04.1897 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-07-06.log'.
+2024-07-07 12:01:54.3401 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-07-07.log'.
+2024-07-07 13:08:40.4245 Info FileTarget(Name=ownFile-web): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-custom-2024-07-07.log'.
+2024-07-07 13:08:40.4357 Info FileTarget(Name=ownFile-web): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-custom-2024-06-21.log'.
+2024-07-08 11:26:16.7482 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-07-08.log'.
+2024-07-08 11:26:16.7954 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-07-01.log'.
+2024-07-08 11:26:16.8063 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-07-02.log'.
+2024-07-08 13:19:02.9646 Info FileTarget(Name=ownFile-web): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-custom-2024-07-08.log'.
+2024-07-08 16:44:25.8961 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-07-08 16:44:26.2968 Info Registered target NLog.Targets.FileTarget(Name=internalFile)
+2024-07-08 16:44:26.2976 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-07-08 16:44:26.3387 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-07-08 16:44:26.4359 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-07-08 16:44:26.4848 Info Validating config: TargetNames=internalFile, ownFile-web, ConfigItems=34, FilePath=D:\My_Workspace\HospitalMgmtService\bin\Debug\net6.0\nlog.config
+2024-07-08 16:44:26.5216 Info Configuration initialized.
+2024-07-08 16:44:26.5789 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-07-08.log'.
+2024-07-08 17:32:38.7740 Info FileTarget(Name=ownFile-web): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-custom-2024-07-08.log'.
+2024-07-08 17:32:38.8165 Info FileTarget(Name=ownFile-web): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-custom-2024-06-24.log'.
+2024-07-08 23:11:10.9583 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-07-08 23:11:19.2594 Info Registered target NLog.Targets.FileTarget(Name=internalFile)
+2024-07-08 23:11:19.2630 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-07-08 23:11:19.3857 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-07-08 23:11:19.4399 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-07-08 23:11:19.4623 Info Validating config: TargetNames=internalFile, ownFile-web, ConfigItems=34, FilePath=D:\My_Workspace\HospitalMgmtService\bin\Debug\net6.0\nlog.config
+2024-07-08 23:11:19.4830 Info Configuration initialized.
+2024-07-08 23:11:19.5238 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-07-08.log'.
+2024-07-09 10:02:37.6326 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-07-09.log'.
+2024-07-09 11:11:37.9129 Info FileTarget(Name=ownFile-web): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-custom-2024-07-09.log'.
+2024-07-09 11:11:37.9780 Info FileTarget(Name=ownFile-web): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-custom-2024-06-25.log'.
+2024-07-09 11:19:01.0451 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-07-09 11:19:01.2550 Info Registered target NLog.Targets.FileTarget(Name=internalFile)
+2024-07-09 11:19:01.2550 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-07-09 11:19:01.3150 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-07-09 11:19:01.3775 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-07-09 11:19:01.4431 Info Validating config: TargetNames=internalFile, ownFile-web, ConfigItems=34, FilePath=D:\My_Workspace\HospitalMgmtService\bin\Debug\net6.0\nlog.config
+2024-07-09 11:19:01.4935 Info Configuration initialized.
+2024-07-09 11:19:01.5860 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-07-09.log'.
+2024-07-09 11:19:01.8887 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-07-03.log'.
+2024-07-09 11:20:48.4329 Info FileTarget(Name=ownFile-web): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-custom-2024-07-09.log'.
+2024-07-09 16:02:32.3895 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-07-09 16:02:32.6188 Info Registered target NLog.Targets.FileTarget(Name=internalFile)
+2024-07-09 16:02:32.6188 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-07-09 16:02:32.6409 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-07-09 16:02:32.6883 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-07-09 16:02:32.7090 Info Validating config: TargetNames=internalFile, ownFile-web, ConfigItems=34, FilePath=D:\My_Workspace\HospitalMgmtService\bin\Debug\net6.0\nlog.config
+2024-07-09 16:02:32.7267 Info Configuration initialized.
+2024-07-09 16:02:32.7601 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-07-09.log'.
+2024-07-09 16:53:54.7095 Info FileTarget(Name=ownFile-web): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-custom-2024-07-09.log'.
+2024-07-10 00:31:09.4989 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-07-10.log'.
+2024-07-10 12:56:39.5978 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-07-10 12:56:40.0975 Info Registered target NLog.Targets.FileTarget(Name=internalFile)
+2024-07-10 12:56:40.0975 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-07-10 12:56:40.1959 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-07-10 12:56:40.3161 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-07-10 12:56:40.3828 Info Validating config: TargetNames=internalFile, ownFile-web, ConfigItems=34, FilePath=D:\My_Workspace\HospitalMgmtService\bin\Debug\net6.0\nlog.config
+2024-07-10 12:56:40.4448 Info Configuration initialized.
+2024-07-10 12:56:40.6855 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-07-10.log'.
+2024-07-10 12:56:40.7460 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-07-04.log'.
+2024-07-10 21:22:20.5736 Info FileTarget(Name=ownFile-web): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-custom-2024-07-10.log'.
+2024-07-10 21:22:20.5992 Info FileTarget(Name=ownFile-web): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-custom-2024-06-26.log'.
+2024-07-10 21:35:51.1637 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-07-10 21:35:51.7780 Info Registered target NLog.Targets.FileTarget(Name=internalFile)
+2024-07-10 21:35:51.7787 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-07-10 21:35:51.8314 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-07-10 21:35:51.9285 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-07-10 21:35:51.9668 Info Validating config: TargetNames=internalFile, ownFile-web, ConfigItems=34, FilePath=D:\My_Workspace\HospitalMgmtService\bin\Debug\net6.0\nlog.config
+2024-07-10 21:35:52.0056 Info Configuration initialized.
+2024-07-10 21:35:52.0718 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-07-10.log'.
+2024-07-10 21:36:01.6822 Info FileTarget(Name=ownFile-web): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-custom-2024-07-10.log'.
+2024-07-11 00:04:26.3297 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-07-11.log'.
+2024-07-11 00:05:20.2949 Info FileTarget(Name=ownFile-web): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-custom-2024-07-11.log'.
+2024-07-15 10:32:07.9417 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-07-15 10:32:13.1987 Info Registered target NLog.Targets.FileTarget(Name=internalFile)
+2024-07-15 10:32:13.2027 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-07-15 10:32:13.4572 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-07-15 10:32:13.9759 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-07-15 10:32:13.9978 Info Validating config: TargetNames=internalFile, ownFile-web, ConfigItems=34, FilePath=D:\My_Workspace\HospitalMgmtService\bin\Debug\net6.0\nlog.config
+2024-07-15 10:32:14.0181 Info Configuration initialized.
+2024-07-15 10:32:14.0510 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-07-15.log'.
+2024-07-15 10:32:14.0769 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-07-05.log'.
+2024-07-15 10:32:14.0769 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-07-06.log'.
+2024-07-16 09:42:20.1744 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-07-16 09:42:20.4195 Info Registered target NLog.Targets.FileTarget(Name=internalFile)
+2024-07-16 09:42:20.4195 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-07-16 09:42:20.4444 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-07-16 09:42:20.4882 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-07-16 09:42:20.5080 Info Validating config: TargetNames=internalFile, ownFile-web, ConfigItems=34, FilePath=D:\My_Workspace\HospitalMgmtService\bin\Debug\net6.0\nlog.config
+2024-07-16 09:42:20.5281 Info Configuration initialized.
+2024-07-16 09:42:20.5632 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-07-16.log'.
+2024-07-16 09:42:20.5899 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-07-07.log'.
+2024-07-16 16:15:23.4161 Info FileTarget(Name=ownFile-web): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-custom-2024-07-16.log'.
+2024-07-16 16:15:23.4600 Info FileTarget(Name=ownFile-web): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-custom-2024-06-28.log'.
+2024-07-16 16:15:23.4704 Info FileTarget(Name=ownFile-web): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-custom-2024-07-05.log'.
+2024-07-16 16:25:20.7372 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-07-16 16:25:21.3012 Info Registered target NLog.Targets.FileTarget(Name=internalFile)
+2024-07-16 16:25:21.3012 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-07-16 16:25:21.3641 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-07-16 16:25:21.4907 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-07-16 16:25:21.5390 Info Validating config: TargetNames=internalFile, ownFile-web, ConfigItems=34, FilePath=D:\My_Workspace\HospitalMgmtService\bin\Debug\net6.0\nlog.config
+2024-07-16 16:25:21.5820 Info Configuration initialized.
+2024-07-16 16:25:21.6681 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-07-16.log'.
+2024-07-16 16:26:23.3530 Info FileTarget(Name=ownFile-web): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-custom-2024-07-16.log'.
+2024-07-16 16:31:10.4800 Info Loading assembly name: NLog.Web.AspNetCore
+2024-07-16 16:31:10.5011 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.5.967. Product version: 5.3.5+b3d46f80b6ea51e91ee7fe419da22e5abd972951. GlobalAssemblyCache: False
+2024-07-16 16:31:10.6210 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-07-16 16:31:10.7279 Info Registered target NLog.Targets.FileTarget(Name=internalFile)
+2024-07-16 16:31:10.7279 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-07-16 16:31:10.7643 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-07-16 16:31:10.7952 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-07-16 16:31:10.8193 Info Validating config: TargetNames=internalFile, ownFile-web, ConfigItems=34, FilePath=D:\My_Workspace\HospitalMgmtService\bin\Debug\net6.0\NLog.config
+2024-07-16 16:31:10.8450 Info Configuration initialized.
+2024-07-16 16:31:11.3238 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-07-16.log'.
+2024-07-16 16:31:40.9868 Info Loading assembly name: NLog.Web.AspNetCore
+2024-07-16 16:31:40.9868 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.5.967. Product version: 5.3.5+b3d46f80b6ea51e91ee7fe419da22e5abd972951. GlobalAssemblyCache: False
+2024-07-16 16:31:41.0806 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-07-16 16:31:41.1072 Info Registered target NLog.Targets.FileTarget(Name=internalFile)
+2024-07-16 16:31:41.1072 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-07-16 16:31:41.1412 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-07-16 16:31:41.1610 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-07-16 16:31:41.1927 Info Validating config: TargetNames=internalFile, ownFile-web, ConfigItems=34, FilePath=D:\My_Workspace\HospitalMgmtService\bin\Debug\net6.0\NLog.config
+2024-07-16 16:31:41.2247 Info Configuration initialized.
+2024-07-16 16:31:41.5258 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-07-16.log'.
+2024-07-16 16:40:46.7583 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-07-16 16:40:47.2343 Info Registered target NLog.Targets.FileTarget(Name=internalFile)
+2024-07-16 16:40:47.2343 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'FileTarget' cannot assign unknown property 'maxArchiveSize'='1mb'
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString[T](T targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2024-07-16 16:40:47.3197 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-07-16 16:40:47.4004 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-07-16 16:40:47.4857 Info Validating config: TargetNames=internalFile, ownFile-web, ConfigItems=34, FilePath=D:\My_Workspace\HospitalMgmtService\bin\Debug\net6.0\nlog.config
+2024-07-16 16:40:47.5583 Info Configuration initialized.
+2024-07-16 16:40:47.6720 Info FileTarget(Name=internalFile): Deleting old archive file: 'D:\My_Workspace\HospitalMgmtService\Logger\NLogs\HMSLogs-internal-2024-07-16.log'.
